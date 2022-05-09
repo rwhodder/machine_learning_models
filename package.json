@@ -1,0 +1,11 @@
+"author": :"Ryan Hodder",
+"description": "a test project",
+"keywords": ["test", "learn", "freecodecamp"],
+"license": "MIT",
+"version": "1.2.0",
+
+"dependancies": {
+    "package-name": "version",
+    "express": "4.14.0",
+    "moment": "~2.10.2"
+}
